@@ -9,7 +9,7 @@ gem 'sinatra-flash',      require: 'sinatra/flash'
 gem 'sinatra-xsendfile',  require: 'sinatra/xsendfile'
 gem 'puma',               require: nil
 gem 'rmagick',            require: nil
-gem 'sidekiq', '~> 4.2.10'
+gem 'sidekiq', '~> 7.1.3'
 gem 'mail'
 gem 'tilt'
 gem 'erubis'
